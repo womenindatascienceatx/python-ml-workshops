@@ -16,7 +16,5 @@ Kaggle Kernel - https://www.kaggle.com/sameerabalay/wids-20200224-pythonml-chapt
 ### Chapter 7 - Combining Different Models for Ensemble Learning
 Materials Chapter 7: https://github.com/rasbt/python-machine-learning-book-3rd-edition/tree/master/ch07
 
-Slides: Chapter 7:https://docs.google.com/presentation/d/11vdJlhpK_Oco3q4TfaQOSqoaUt43KVv7cW6F8Th9wu0/edit?usp=sharing
-
-Kaggle Kernels: Chapter 7: https://www.kaggle.com/ajmably/wids-20200224-pythonml-chapter7
+Kaggle Kernel: Chapter 7: https://www.kaggle.com/ajmably/wids-20200224-pythonml-chapter7
 
